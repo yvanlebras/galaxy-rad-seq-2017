@@ -1,4 +1,4 @@
-# Galaxy - ChIP-Seq flavoured Galaxy
+# Galaxy - RAD-Seq flavoured Galaxy
 #
 # VERSION       0.1
 
